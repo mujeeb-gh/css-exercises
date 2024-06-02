@@ -1,0 +1,15 @@
+.button-bw {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.button-yb {
+  background-color: yellow;
+}
+
+.button-bw,
+.button-yb {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
